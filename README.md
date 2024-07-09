@@ -1,0 +1,2 @@
+<img width="1467" alt="LogIngestor" src="https://github.com/yashuraj9/log-ingestor-with-query-interface/assets/61059669/5a885563-f926-4968-924f-d53f5de13b4e">
+A Fullstack Log Ingestor with Query Interface project. Tech stack used is Spring Boot Java for backend development, flutter for frontend development and SQL database was used as a database solution. Tested the querying with a sample of more than 100K logs dataset and provides fast,reliable and accruate results. 
